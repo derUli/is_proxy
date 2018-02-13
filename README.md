@@ -12,4 +12,6 @@ This module for UliCMS 2018.1 or later provides a function to detect if the clie
 
 After the installation procedure u can use the global function is_proxy() which returns a boolean.
 
-Please note: Anonymous proxies can not be detected by the function
+**Please note:**
+ 
+Anonymous proxies can not be detected by the function.

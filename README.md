@@ -1,6 +1,6 @@
 # is_proxy
 
-is_proxy Module for UliCMS
+Provides a function to detect proxy servers
 
 ## Requirements
 

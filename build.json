@@ -1,6 +1,6 @@
 {
 	"id": "is_proxy",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Check if site is accessed by a proxy server",
 	"categories": [
 		"development"

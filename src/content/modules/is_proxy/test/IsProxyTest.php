@@ -1,5 +1,5 @@
 <?php
-class IsProxyTest extends PHPUnit_Framework_TestCase {
+class IsProxyTest extends \PHPUnit\Framework\TestCase {
 	public function tearDown() {
 		unset ( $_SERVER ["HTTP_FORWARDED_FOR"] );
 	}

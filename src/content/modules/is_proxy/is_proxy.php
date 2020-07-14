@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace UliCMS\Utils\Network;
 
-function is_proxy()
+function is_proxy(): bool
 {
     $result = false;
     $proxy_headers = array(
